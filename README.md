@@ -9,7 +9,7 @@ Registration will open soon. Stay tuned on Slack!
 The real discussion is happening in the #amstel-hack-2020 channel at [swung.slack.com](swung.slack.com). Join us there!
 
 ## Information
-Updated information can be found on the [official website](http://www.amstelhack2020.com/).
+Updated information can be found on the [official website](http://www.amstelhack2020.site/).
 
 ## Team
 * Filippo - @filippo82 on #amstel-hack-2020

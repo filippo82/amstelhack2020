@@ -1,0 +1,20 @@
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+.text-secondary {
+  color: $secondary !important;
+}
+
+a {
+  color: $secondary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: darken($secondary, 15%);
+  }
+}

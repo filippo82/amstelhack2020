@@ -2,6 +2,9 @@
 GitHub repo for the summer Hackathon of the Software Underground community
 which will be held in Amsterdam on June 6th and 7th.
 
+# TODO
+* Add Shell in the sponsor section
+
 ## Registration
 Registration will open soon. Stay tuned on Slack!
 

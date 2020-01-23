@@ -6,13 +6,13 @@ which will be held in Amsterdam on June 6th and 7th.
 * Add Shell in the sponsor section
 
 ## Registration
-Registration will open soon. Stay tuned on Slack!
+You can register [here](https://events.agilescientific.com/event/amstel-hack-2020).
 
 ## Discussion
 The real discussion is happening in the #amstel-hack-2020 channel on [Slack](https://softwareunderground.org/slack). Join us [there](https://softwareunderground.org/slack)!
 
 ## Information
-Updated information can be found on the [official website](http://www.amstelhack2020.site/).
+Updated information can be found on the [official website](https://www.amstelhack2020.site/).
 
 ## Team
 * Filippo - @filippo82 on #amstel-hack-2020
